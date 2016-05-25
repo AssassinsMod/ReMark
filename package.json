@@ -1,0 +1,28 @@
+{
+  "name": "remark",
+  "version": "0.0.1",
+  "description": "Another pure javascript markdown parser.",
+  "author": "AssassinsMod",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown",
+    "markup",
+    "remark"
+  ],
+  "homepage": "https://github.com/AssassinsMod/ReMark#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AssassinsMod/ReMark.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AssassinsMod/ReMark/issues"
+  },
+  "devDependencies": {
+    "babel-core": "^6.9.0",
+    "gulp": "^3.9.1"
+  }
+}
